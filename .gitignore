@@ -1,0 +1,29 @@
+# Maven
+target/
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+
+# Test outputs
+test-output/
+allure-results/
+allure-report/
+screenshots/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Selenium / WebDriverManager cache (local dev only)
+.cache/
